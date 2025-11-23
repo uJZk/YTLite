@@ -1,6 +1,6 @@
 # FAQ (Frequently Asked Questions)
 
-[🇺🇸 English FAQ](FAQ_EN.md) | [🇷🇺 ЧаВо на Русском](FAQ_RU.md) | [✓] 🇮🇹 FAQ in Italiano
+[🇺🇸 English FAQ](FAQ_EN.md) | [🇷🇺 ЧаВо на Русском](FAQ_RU.md) | [✓] 🇮🇹 FAQ in Italiano | [🇵🇱 FAQ po Polsku](FAQ_PL.md)
 
 <details>
   <summary>Che versioni di iOS supporta YouTube Plus?</summary>
@@ -19,7 +19,7 @@
 </details>
 <br>
 <details>
-  <summary>La riproduzione non funziona più su YouTube Plus sideloaded. Cosa dovrei fare?</summary>
+  <summary>Il Cast non funziona più su YouTube Plus sideloaded. Cosa dovrei fare?</summary>
     <p>Finché non si risolve il problema, è consigliato usare YouTube 20.14.1 o inferiori.</p>
 </details>
 <br>
